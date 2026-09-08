@@ -1,0 +1,13 @@
+# Claude Code local config
+.claude/
+
+# リサーチ資料（非公開）
+株式会社トレンビュー_HP制作リサーチレポート.md
+
+# 素材・参考画像の元ファイル（site/images に最適化済みを配置）
+exec-*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
