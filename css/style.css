@@ -227,6 +227,7 @@ h1,h2,h3{line-height:1.4;font-weight:900}
   margin-bottom:22px;
   max-width:11.5em;
 }
+.hero-title span{display:block}
 .hero-lead{font-size:clamp(.98rem,1.9vw,1.18rem);color:#dfdbcf;font-weight:500;margin-bottom:38px}
 .hero-actions{display:flex;flex-wrap:wrap;gap:16px;align-items:center;margin-bottom:34px}
 .hero-tags{
